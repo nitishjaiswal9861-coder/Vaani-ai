@@ -1,0 +1,17 @@
+vaani-ai/
+├── app/
+│   ├── api/
+│   │   ├── chat/route.ts
+│   │   └── waitlist/route.ts
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── voice-assistant.tsx
+│   ├── landing/
+│   │   ├── nav.tsx
+│   │   ├── hero.tsx
+│   │   └── sections.tsx
+├── package.json
+├── tailwind.config.js
+└── tsconfig.json
